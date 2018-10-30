@@ -1,5 +1,5 @@
 # Custom Project Templates
-
+Follow the article https://medium.com/@09mejohn/custom-xcode-template-for-static-library-in-ios-820e8e90ca93
 Custom Project templates for Static and Dynamic Libraries in Xcode. 
 
 ### What are Xcode Templates?
