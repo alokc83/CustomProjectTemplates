@@ -1,4 +1,6 @@
 # Custom Project Templates
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falokc83%2FCustomProjectTemplates.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falokc83%2FCustomProjectTemplates?ref=badge_shield)
+
 Follow the article https://medium.com/@09mejohn/custom-xcode-template-for-static-library-in-ios-820e8e90ca93
 Custom Project templates for Static and Dynamic Libraries in Xcode. 
 
@@ -32,3 +34,7 @@ Copy the Project Templates folder to path `~/Library/Developer/Xcode/Templates`
 
 Navigate to `File -> New -> Project` from Xcode and scroll to the bottom of the templates list to see the custom templates.
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falokc83%2FCustomProjectTemplates.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falokc83%2FCustomProjectTemplates?ref=badge_large)
